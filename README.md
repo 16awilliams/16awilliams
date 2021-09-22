@@ -2,4 +2,4 @@
 - 👀 Playing games, Chess & Stocks.
 - 🌱 I’m currently learning cloud infrastructure, studying for my Sec +
 - 💞️ I’m looking to collaborate with anyone with interest in aws services, and pentesting.
-- 📫 How to reach me, reach out to my linked.in and connect with me! https://www.linkedin.com/in/austin-williams-2721b51b8/
+- 📫 Reach out to my linked in and connect with me! https://www.linkedin.com/in/austin-williams-2721b51b8/
