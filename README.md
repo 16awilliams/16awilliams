@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin
 - 👀 I’m interested in aws cloud infrastructure and pentesting.
-- 🌱 I’m currently learning cloud infrastracture 
+- 🌱 I’m currently learning cloud infrastructure
 - 💞️ I’m looking to collaborate with anyone with interest in aws services.
 - 📫 How to reach me ... williams.austin70@gmail.com
 
